@@ -20,7 +20,7 @@ export default function About() {
             <div className="left">
             <h1><span ref={textRef}></span> Diksha</h1>
                 <div className="wrapper">
-                    <p> A 3rd year university student, majoring in IT. Currently woking on react java and NLP. Working towards becoming a front-end developer, while juggling my way through life. A dreamer and an enthusiast. Other than that, a bibliophile, a not-so-famous writer and a photgrapher. I enjoy travelling, music and sipping on tea while my mind looks for yet another escape plan. </p>
+                    <p> A 3rd year university student, majoring in IT. Currently woking on react java and NLP. Working towards becoming a front-end developer, while juggling my way through life. A dreamer and an enthusiast. Other than that, a bibliophile, a not-so-famous writer and a photographer. I enjoy travelling, music and sipping on tea while my mind looks for yet another escape plan. </p>
 
                 </div>
                 <a href="#projects">
